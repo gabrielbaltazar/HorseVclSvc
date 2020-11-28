@@ -1,0 +1,22 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2020-11-28T09:50:21.1602613-03:00",
+	"installedModules": {
+		"github.com/hashload/horse": {
+			"name": "horse",
+			"version": "v2.0.6",
+			"hash": "cca1769dfab681cfd26ae8499f9045e1",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"https://github.com/gabrielbaltazar/gbwinservice": {
+			"name": "gbwinservice",
+			"version": "1.1.0",
+			"hash": "3524ea7c5d215a51c4695f817732c381",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
